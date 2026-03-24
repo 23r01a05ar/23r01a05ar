@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Vallabha
+# 👋 Hi, I'm KANCHUMARTHI SAI SRI VALLABHA
 
-🚀 **Android Developer | AI & Cloud Engineer | Full Stack Developer**
+🚀 **Android Developer | Python & Machine Learning Intern @ Infosys Springboard | Google Cloud | Full Stack |**
+
 🎓 B.Tech CSE @ CMR Institute of Technology (2023–2027)
+
 📍 Hyderabad, India
 
 ---
@@ -39,7 +41,7 @@ Developed a full Android app using Kotlin, Jetpack Compose & Firebase<br>
 📊 Firestore database architecture<br><br>
 
 🔹 **Google Cloud Arcade Facilitator (2025)**<br>
-Completed **300+ skill badges & 200+ labs**<br>
+Completed **200+ skill badges & 350+ labs**<br>
 Worked with BigQuery, Cloud Run, Vertex AI, Kubernetes, Gemini API<br>
 
 ---
