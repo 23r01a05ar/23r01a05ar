@@ -21,6 +21,8 @@ Real-world problem solving<br>
 Scalable system design<br>
 AI-powered applications<br>
 
+portfolio: https://portfolio-vert-sigma-62.vercel.app/
+
 ---
 
 ## 💼 Experience:
