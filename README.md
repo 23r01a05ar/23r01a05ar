@@ -122,4 +122,4 @@ HackerRank Python (Basic)<br>
 [![](https://visitcount.itsvg.in/api?id=23r01a05ar\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 
-https://chatgpt.com/share/69c76356-5fe4-8321-8e13-98863c34ea56
+https://chatgpt.com/c/69dfa0e6-b210-83e8-bb30-e150778761e8
